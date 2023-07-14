@@ -5,8 +5,10 @@ public:
         int leastcol = n;
         for(int i=0; i<ops.size(); i++)
         {
-            leastrow = min(leastrow, ops[i][0]);
-            leastcol = min(leastcol, ops[i][1]);
+            if(leastrow>ops[i][0])
+                leastrow = ops[i][0];
+            if(leastcol>ops[i][1])
+                leastcol = ops[i][1];
         }
         return (leastrow*leastcol);
     }
