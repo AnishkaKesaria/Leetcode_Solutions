@@ -7,7 +7,7 @@ public:
             char ch = strs[0][i];
             for(int j = 1; j<strs.size(); j++)
             {
-                if(strs[j][i] != ch)
+                if( strs[j].size()<i || strs[j][i] != ch)
                     return ans;
             }
             ans += ch;
