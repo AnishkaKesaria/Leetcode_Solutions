@@ -55,10 +55,6 @@ class Solution{
     }
     
     vector<string> findPath(vector<vector<int>> &m, int n) {
-        // Your code goes here
-        
-        // if(m[0][0]==0)
-        //     return {-1};
         
         vector<string> paths;
         
