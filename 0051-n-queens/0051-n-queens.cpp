@@ -5,7 +5,7 @@ public:
     map<int,bool> upperRDCheck;
     map<int,bool> bottomLDCheck;
 
-    void storeSolution(vector<vector<char>> board, int n, vector<vector<string>> &ans)
+    void storeSolution(vector<vector<char>>& board, int n, vector<vector<string>> &ans)
     {
         vector<string> temp;
         for(int i=0; i<n; i++)
@@ -20,7 +20,7 @@ public:
         ans.push_back(temp);
     }
     
-    bool isSafe(int row, int col, vector<vector<char>> board, int n)
+    bool isSafe(int row, int col, vector<vector<char>>& board, int n)
     {
         if(rowCheck[row] == true)
             return false;
@@ -32,7 +32,7 @@ public:
             return true;
     }
     
-    void solve(vector<vector<char>> board, int col, int n, vector<vector<string>>& ans)
+    void solve(vector<vector<char>>& board, int col, int n, vector<vector<string>>& ans)
     {
         if(col>=n)
         {
