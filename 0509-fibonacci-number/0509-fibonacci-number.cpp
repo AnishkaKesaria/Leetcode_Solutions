@@ -1,9 +1,18 @@
 class Solution {
 public:
-    int fib(int n) {
-        if(n==0 || n==1)
+    
+    int findfib(vector<int> &dp, int n)
+    {
+        if(n==1 || n==0)
             return n;
-        int ans = fib(n-1) + fib(n-2);
-        return ans;
+        if(dp[n]==-1)
+            dp[n] = findfib(dp, n-1) + findfib(dp, n-2);
+        return dp[n];
+    }
+    
+    int fib(int n) {
+        //Step 1
+        vector<int> dp(n+1, -1);
+        return findfib(dp, n);
     }
 };
