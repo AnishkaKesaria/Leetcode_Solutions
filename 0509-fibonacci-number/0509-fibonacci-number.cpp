@@ -1,18 +1,13 @@
 class Solution {
 public:
-    
-    int findfib(vector<int> &dp, int n)
-    {
-        if(n==1 || n==0)
-            return n;
-        if(dp[n]==-1)
-            dp[n] = findfib(dp, n-1) + findfib(dp, n-2);
-        return dp[n];
-    }
-    
+    //Bottom Up approach
     int fib(int n) {
-        //Step 1
+        if(n==0 || n==1)
+            return n;
         vector<int> dp(n+1, -1);
-        return findfib(dp, n);
+        dp[0] = 0, dp[1] = 1;
+        for(int i=2; i<=n; i++)
+            dp[i] = dp[i-1] + dp[i-2];
+        return dp[n];
     }
 };
