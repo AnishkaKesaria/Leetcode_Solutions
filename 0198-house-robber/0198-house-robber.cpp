@@ -49,10 +49,7 @@ public:
     }
     
     int solveUsingSpaceOpt(vector<int> &nums, int n)
-    {
-        if(n==0)
-            return nums[0];
-        
+    {        
         int prev2 = 0;
         int prev1 = nums[0];
         
@@ -72,7 +69,7 @@ public:
             prev1 = curr;
             
         }
-        return curr;
+        return prev1;
     }
 
     int rob(vector<int>& nums) {
