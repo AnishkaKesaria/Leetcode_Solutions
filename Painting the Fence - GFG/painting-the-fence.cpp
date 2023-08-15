@@ -25,11 +25,24 @@ class Solution{
         return dp[n];
     }
     
+    long long countWaysTab(int n, int k)
+    {
+        long long mod = 1000000007;
+        vector<long long> dp(n+1, -1);
+        dp[1] = k;
+        dp[2] = k + (k*(k-1));
+        
+        for(int i=3; i<=n; i++)
+        {
+            dp[i] = ((dp[i-1] + dp[i-2]) * (k-1)) % mod;
+        }
+        
+        return dp[n];
+    }
+    
     long long countWays(int n, int k)
     {
-        vector<long long> dp(n+1, -1);
-        long long ans = countWaysMem(n, k, dp);
-        return ans;
+        return countWaysTab(n,k);
     }
     
 };
