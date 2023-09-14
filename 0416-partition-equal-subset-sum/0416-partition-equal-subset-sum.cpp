@@ -62,6 +62,35 @@ public:
         return dp[0][target];
     }
 
+    bool isSubsetSumSO(vector<int> &nums, int target)
+    {
+        int n = nums.size();
+
+        vector<int> curr(target+1, 0);
+        vector<int> next(target+1, 0);
+
+        for(int i=0; i<nums.size(); i++)
+        {
+            next[0] = 1;
+        }
+
+        for(int index = n-1; index>=0; index--)
+        {
+            for(int currTarget = 1; currTarget<=target; currTarget++)
+            {
+                bool include = 0;
+                if(currTarget-nums[index]>=0)
+                    include = next[currTarget-nums[index]];
+                bool exclude = next[currTarget];
+
+                curr[currTarget] = (include||exclude);
+            }
+            next = curr;
+        }
+
+        return curr[target];
+    }
+
     bool canPartition(vector<int>& nums) {
         int sum = 0;
         for(int i=0; i<nums.size(); i++)
@@ -71,6 +100,7 @@ public:
         int target = sum/2;
         int currIndex = 0;
         // vector<vector<int>> dp(target+1, vector<int> (nums.size(), -1));
-        return isSubsetSumMem(nums, target);
+        // return isSubsetSumMem(nums, target);
+        return isSubsetSumSO(nums, target);
     }
 };
