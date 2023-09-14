@@ -98,7 +98,7 @@ public:
         if(sum&1==1)
             return false;
         int target = sum/2;
-        int currIndex = 0;
+        // int currIndex = 0;
         // vector<vector<int>> dp(target+1, vector<int> (nums.size(), -1));
         // return isSubsetSumMem(nums, target);
         return isSubsetSumSO(nums, target);
