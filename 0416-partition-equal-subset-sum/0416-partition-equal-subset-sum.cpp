@@ -95,7 +95,7 @@ public:
         int sum = 0;
         for(int i=0; i<nums.size(); i++)
             sum+=nums[i];
-        if(sum%2==1)
+        if(sum&1==1)
             return false;
         int target = sum/2;
         int currIndex = 0;
