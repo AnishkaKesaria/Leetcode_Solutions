@@ -69,10 +69,9 @@ public:
         vector<int> curr(target+1, 0);
         vector<int> next(target+1, 0);
 
-        for(int i=0; i<nums.size(); i++)
-        {
-            next[0] = 1;
-        }
+        
+        next[0] = 1;
+        
 
         for(int index = n-1; index>=0; index--)
         {
