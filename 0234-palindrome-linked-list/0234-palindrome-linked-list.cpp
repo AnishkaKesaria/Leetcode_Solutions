@@ -10,28 +10,90 @@
  */
 class Solution {
 public:
-    bool isPalindrome(vector<int> &arr)
+    ListNode* findMid(ListNode* head)
     {
-        int s = 0, e = arr.size()-1;
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-        while(s<=e)
+        while(fast->next!=NULL)
         {
-            if(arr[s]!=arr[e])
-                return false;
-            s++;
-            e--;
+            fast = fast->next;
+            if(fast->next!=NULL)
+            {
+                slow = slow->next;
+                fast = fast->next;
+            }
         }
-        return true;
+        return slow;
+    }
+
+    ListNode* reverseLL(ListNode* head)
+    {
+        ListNode* prev = NULL;
+        ListNode* next = NULL;
+        ListNode* curr = head;
+
+        while(curr!=NULL)
+        {
+            next = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = next;
+            // head = head->next;
+            // curr->next = prev;
+            // prev = curr;
+        }
+        return prev;
+    }
+
+    bool checkLL(ListNode* head, ListNode* halfHead)
+    {
+        ListNode* temp = head;
+        ListNode* half = halfHead;
+
+        while(half->next!=NULL)
+        {
+            if(temp->val==half->val)
+            {
+                temp = temp->next;
+                half = half->next;
+            }
+            else
+                return false;
+        }
+
+        if(temp->next==halfHead)
+            return true;
+        else 
+            return false;
     }
 
     bool isPalindrome(ListNode* head) {
-        ListNode* temp = head;
-        vector<int> arr;
-        while(temp!=NULL)
+        if(head->next==NULL)
+            return true;
+
+        ListNode* mid = findMid(head);
+        cout<<mid->val<<endl;
+        cout<<mid->next->val<<endl;
+        ListNode* temp = mid->next;
+        mid->next = reverseLL(temp);
+
+        ListNode* head1 = head;
+        ListNode* head2 = mid->next;
+
+        
+
+        while(head2!=NULL)
         {
-            arr.push_back(temp->val);
-            temp = temp->next;
+            cout<<head1->val<<" "<<head2->val;
+            if(head1->val!=head2->val)
+                return false;
+            head1 = head1->next;
+            head2 = head2->next;
         }
-        return isPalindrome(arr);
+
+
+        // return checkLL(head, mid->next);
+        return true;
     }
 };
