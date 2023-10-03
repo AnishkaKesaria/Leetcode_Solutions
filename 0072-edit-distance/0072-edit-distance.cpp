@@ -135,6 +135,45 @@ public:
         }
         return dp[0][0];
     }
+    
+    int solveSO(string word1, string word2)
+    {
+        int k = max(word1.size(), word2.size());
+        vector<int> curr(k+1, 0);
+        vector<int> next(k+1, 0);
+        
+        for(int j=0; j<word2.size(); j++)
+        {
+            next[j] = word2.size()-j;
+        }
+        
+        for(int i=word1.size()-1; i>=0; i--)
+        {
+            curr[word2.size()] = word1.size()-i;
+            for(int j=word2.size()-1; j>=0; j--)
+            {
+                int ans;
+
+                if(word1[i]==word2[j])
+                    ans = next[j+1];
+
+                else
+                {
+                    int insertOp = 1 + curr[j+1];
+                    int deleteOp = 1 + next[j];
+                    int replaceOp = 1 + next[j+1];
+                    ans = (min(insertOp, min(deleteOp, replaceOp)));
+                }
+
+                curr[j] = ans;
+            }
+            
+            next = curr;
+        }
+        
+        return next[0];
+        
+    }
 
     
 
@@ -149,7 +188,8 @@ public:
 
         vector<vector<int>> dp(k+1, vector<int> (k+1, -1));
         // int ans = solveUsingMem(word1, word2, i, j, dp);
-        int ans = solveUsingTab(word1, word2);
+        // int ans = solveUsingTab(word1, word2);
+        int ans = solveSO(word1, word2);
 
 
         // int ans = solveUsingRec(word1, word2, i, j);
