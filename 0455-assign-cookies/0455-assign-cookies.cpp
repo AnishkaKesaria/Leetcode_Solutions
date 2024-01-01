@@ -6,7 +6,7 @@ public:
         
         int j = 0;
         
-        for(int i=0;j<g.size() && i<s.size(); i++)
+        for(int i=0; j<g.size() && i<s.size(); i++)
         {
             if(g[j]<=s[i])
                 j++;
