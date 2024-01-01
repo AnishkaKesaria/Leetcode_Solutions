@@ -4,9 +4,9 @@ public:
         sort(g.begin(), g.end());
         sort(s.begin(), s.end());
         
-        int i=0, j = 0;
+        int j = 0;
         
-        for(;j<g.size() && i<s.size(); i++)
+        for(int i=0;j<g.size() && i<s.size(); i++)
         {
             if(g[j]<=s[i])
                 j++;
