@@ -7,11 +7,13 @@ public:
             if(load+weights[i]>testWeight){
                 day++;
                 load = weights[i];
+                if(day>days)
+                    return false;
             } else {
                 load += weights[i];
             }
         }
-        return (day<=days);
+        return true;
     }
 
     int shipWithinDays(vector<int>& weights, int days) {
