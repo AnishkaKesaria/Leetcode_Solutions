@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
