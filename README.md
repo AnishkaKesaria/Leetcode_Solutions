@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Two Pointers
@@ -15,6 +16,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 ## Math
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
@@ -51,6 +54,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 ## Tree
 |  |
 | ------- |
@@ -71,4 +75,9 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
