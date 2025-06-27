@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
 ## Combinatorics
 |  |
@@ -41,6 +43,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -80,4 +83,12 @@
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
