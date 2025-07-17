@@ -67,16 +67,19 @@
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
 ## String
 |  |
@@ -107,4 +110,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
