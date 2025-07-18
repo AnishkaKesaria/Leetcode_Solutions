@@ -7,6 +7,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -59,6 +60,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -99,6 +101,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 ## Greedy
 |  |
@@ -120,4 +123,12 @@
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
