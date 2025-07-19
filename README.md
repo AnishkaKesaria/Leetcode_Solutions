@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
 ## Combinatorics
@@ -90,6 +91,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0091-decode-ways](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0953-reverse-only-letters](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
