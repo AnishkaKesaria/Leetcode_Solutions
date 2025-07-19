@@ -72,6 +72,7 @@
 | [0110-balanced-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
 ## Depth-First Search
 |  |
@@ -86,6 +87,7 @@
 | [0110-balanced-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
 ## String
 |  |
@@ -106,6 +108,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -126,6 +129,7 @@
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,4 +150,12 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+## Design
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
