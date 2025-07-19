@@ -78,6 +78,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
+| [0547-number-of-provinces](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
 |  |
@@ -133,4 +134,16 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
+## Graph
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
