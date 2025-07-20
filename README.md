@@ -7,6 +7,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
@@ -36,6 +37,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0091-decode-ways) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
