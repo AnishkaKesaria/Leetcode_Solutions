@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
@@ -208,4 +209,8 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
