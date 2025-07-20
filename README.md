@@ -53,6 +53,7 @@
 | [0141-linked-list-cycle](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Binary Search
 |  |
@@ -116,6 +117,7 @@
 | [0091-decode-ways](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0953-reverse-only-letters](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
 ## Sliding Window
 |  |
@@ -213,4 +215,8 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0278-first-bad-version) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
