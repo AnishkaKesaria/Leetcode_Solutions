@@ -29,6 +29,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0091-decode-ways](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
+| [1013-fibonacci-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -172,4 +174,12 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
