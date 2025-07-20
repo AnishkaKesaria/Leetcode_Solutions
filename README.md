@@ -76,6 +76,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
+| [0226-invert-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
@@ -85,6 +86,7 @@
 | [0110-balanced-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
 ## Binary Tree
@@ -92,6 +94,7 @@
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
+| [0226-invert-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
@@ -150,6 +153,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [1036-rotting-oranges](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 ## Union Find
