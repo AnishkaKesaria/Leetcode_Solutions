@@ -30,6 +30,18 @@ class Solution {
         return;
     }
 
+    private void dfs(char[][] grid, boolean visited[][], int i, int j) {
+        if(i<0 || i>=grid.length || j<0 || j>=grid[i].length || grid[i][j]!='1' || visited[i][j]==true)
+            return;
+
+        visited[i][j] = true;
+            dfs(grid, visited,i+1,j);
+            dfs(grid, visited,i-1,j);
+            dfs(grid, visited,i,j+1);
+            dfs(grid, visited,i,j-1);
+        return;
+    }
+
     public int numIslands(char[][] grid) {
         int r = grid.length;
         int c = grid[0].length;
@@ -40,7 +52,7 @@ class Solution {
             for(int j=0; j<c; j++) {
                 if(!visited[i][j] && grid[i][j]=='1') {
                     count++;
-                    bfs(grid, visited,i,j);
+                    dfs(grid, visited,i,j);
                 }
             }
         }
