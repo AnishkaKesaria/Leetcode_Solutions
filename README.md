@@ -129,6 +129,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -157,6 +158,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
 |  |
@@ -212,6 +214,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 ## Interactive
 |  |
@@ -221,4 +224,8 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0383-ransom-note) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
