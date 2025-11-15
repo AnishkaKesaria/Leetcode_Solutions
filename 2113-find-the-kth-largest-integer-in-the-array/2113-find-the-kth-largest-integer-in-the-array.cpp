@@ -1,7 +1,7 @@
 class Solution {
 public:
     struct cmp {
-        bool operator()(string &a, string &b)  {
+        bool operator()(const string &a, const string &b) const  {
             if(a.size()==b.size())
                 return (a>b);
             return (a.size()>b.size());
