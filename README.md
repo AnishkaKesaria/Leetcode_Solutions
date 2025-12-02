@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -74,6 +75,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0278-first-bad-version) |
 | [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
@@ -184,6 +186,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
