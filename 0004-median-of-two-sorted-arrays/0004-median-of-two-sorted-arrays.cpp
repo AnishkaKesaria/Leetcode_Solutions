@@ -6,7 +6,7 @@ public:
         int i=0;
         int p1=0, p2=0;
         int ith=0, jth=0;
-        while(i!=midIndex+2) {
+        while(i!=midIndex+1) {
             if(p1<nums1.size()) {
                 if(p2<nums2.size()) {
                     if(nums1[p1]<nums2[p2]) {
