@@ -25,6 +25,7 @@
 | [0781-rabbits-in-forest](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0781-rabbits-in-forest) |
 | [1036-rotting-oranges](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Two Pointers
@@ -86,6 +87,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
@@ -237,6 +239,7 @@
 | [0200-number-of-islands](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Recursion
 |  |
 | ------- |
