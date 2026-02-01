@@ -32,6 +32,7 @@
 | [1929-concatenation-of-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Tree
 |  |
 | ------- |
@@ -287,4 +289,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 <!---LeetCode Topics End-->
