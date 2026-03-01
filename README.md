@@ -32,6 +32,7 @@
 | [1929-concatenation-of-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0781-rabbits-in-forest](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0781-rabbits-in-forest) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
