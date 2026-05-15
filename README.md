@@ -19,6 +19,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0274-h-index) |
 | [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -111,6 +112,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0274-h-index) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -295,4 +297,8 @@
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
