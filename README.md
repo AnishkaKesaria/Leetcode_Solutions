@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -65,6 +66,7 @@
 | [0053-maximum-subarray](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
