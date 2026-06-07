@@ -9,6 +9,7 @@
 | [0011-container-with-most-water](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0056-merge-intervals) |
@@ -55,6 +56,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0781-rabbits-in-forest](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0781-rabbits-in-forest) |
@@ -255,6 +257,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0733-flood-fill) |
