@@ -25,6 +25,7 @@
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0274-h-index) |
 | [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
@@ -91,6 +92,7 @@
 | [0242-valid-anagram](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0781-rabbits-in-forest](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0781-rabbits-in-forest) |
@@ -280,6 +282,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
 | ------- |
@@ -313,4 +316,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0274-h-index) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
