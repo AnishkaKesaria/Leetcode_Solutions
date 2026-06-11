@@ -173,6 +173,7 @@
 | [0020-valid-parentheses](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
