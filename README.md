@@ -135,6 +135,7 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
@@ -145,6 +146,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 | [0200-number-of-islands](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0200-number-of-islands) |
@@ -156,6 +158,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 | [0226-invert-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
@@ -239,6 +242,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
