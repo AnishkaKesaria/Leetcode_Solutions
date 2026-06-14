@@ -26,6 +26,7 @@
 | [0274-h-index](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0274-h-index) |
 | [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
@@ -96,6 +97,7 @@
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
+| [0525-contiguous-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0781-rabbits-in-forest](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0781-rabbits-in-forest) |
@@ -211,6 +213,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0525-contiguous-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Trie
 |  |
