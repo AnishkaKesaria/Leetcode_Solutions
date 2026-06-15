@@ -36,6 +36,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1036-rotting-oranges](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1929-concatenation-of-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
