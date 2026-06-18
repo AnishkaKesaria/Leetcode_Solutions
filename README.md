@@ -12,6 +12,7 @@
 | [0048-rotate-image](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0118-pascals-triangle) |
@@ -220,6 +222,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0781-rabbits-in-forest](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0781-rabbits-in-forest) |
