@@ -43,6 +43,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1840-maximum-building-height](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1840-maximum-building-height) |
 | [1929-concatenation-of-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -75,6 +76,7 @@
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0781-rabbits-in-forest](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0781-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [1840-maximum-building-height](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1840-maximum-building-height) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -148,6 +150,7 @@
 | [0347-top-k-frequent-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
+| [1840-maximum-building-height](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1840-maximum-building-height) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Tree
