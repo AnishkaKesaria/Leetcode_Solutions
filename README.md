@@ -117,6 +117,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0781-rabbits-in-forest](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0781-rabbits-in-forest) |
+| [1189-maximum-number-of-balloons](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -204,6 +205,7 @@
 | [0383-ransom-note](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0443-string-compression](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0953-reverse-only-letters](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
+| [1189-maximum-number-of-balloons](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
 |  |
@@ -343,6 +345,7 @@
 | [0229-majority-element-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [1189-maximum-number-of-balloons](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Merge Sort
 |  |
 | ------- |
