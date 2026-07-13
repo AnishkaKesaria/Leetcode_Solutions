@@ -21,6 +21,7 @@
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
@@ -93,6 +94,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
@@ -109,6 +111,7 @@
 | [0049-group-anagrams](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
@@ -205,6 +208,7 @@
 | [0049-group-anagrams](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0383-ransom-note) |
@@ -252,6 +256,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -326,6 +331,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
