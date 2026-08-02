@@ -64,6 +64,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -77,6 +78,7 @@
 | [0002-add-two-numbers](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0062-unique-paths) |
+| [0202-happy-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0781-rabbits-in-forest](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0781-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
@@ -114,6 +116,7 @@
 | [0139-word-break](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
