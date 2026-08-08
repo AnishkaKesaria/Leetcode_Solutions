@@ -19,10 +19,6 @@ class Solution {
 
         n2 = word2.length() -1;
         int[] ans = new int[word2.length()];
-        // if(rightMatch[0]<n2) {
-        //     System.out.println(rightMatch[0]);
-        //     return new int[0];
-        // }
         
         int j = 0;
         boolean isChangePossible = true;
