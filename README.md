@@ -54,6 +54,7 @@
 | [2965-find-missing-and-repeated-values](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
+| [3731-find-missing-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,6 +134,7 @@
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3731-find-missing-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 | [1840-maximum-building-height](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1840-maximum-building-height) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3731-find-missing-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3731-find-missing-elements) |
 ## Tree
 |  |
 | ------- |
