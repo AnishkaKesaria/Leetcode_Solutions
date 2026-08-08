@@ -72,6 +72,7 @@
 | [0658-find-k-closest-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0658-find-k-closest-elements) |
 | [0908-middle-of-the-linked-list](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Math
 |  |
 | ------- |
@@ -102,6 +103,7 @@
 | [0647-palindromic-substrings](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
 | [1013-fibonacci-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1013-fibonacci-number) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Combinatorics
 |  |
 | ------- |
@@ -223,6 +225,7 @@
 | [0953-reverse-only-letters](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -249,6 +252,7 @@
 | [0410-split-array-largest-sum](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0781-rabbits-in-forest](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0781-rabbits-in-forest) |
 | [1833-maximum-ice-cream-bars](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Prefix Sum
 |  |
