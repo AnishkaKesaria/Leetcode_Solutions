@@ -126,6 +126,7 @@
 | [0268-missing-number](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -225,6 +226,7 @@
 | [0242-valid-anagram](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0953-reverse-only-letters](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
@@ -376,6 +378,7 @@
 | [0229-majority-element-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 ## Merge Sort
 |  |
@@ -410,4 +413,8 @@
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0133-clone-graph) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
