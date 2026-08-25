@@ -228,6 +228,7 @@
 | [0383-ransom-note](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0443-string-compression) |
+| [0551-student-attendance-record-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0551-student-attendance-record-i) |
 | [0647-palindromic-substrings](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0953-reverse-only-letters](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0953-reverse-only-letters) |
 | [1189-maximum-number-of-balloons](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
