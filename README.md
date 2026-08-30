@@ -179,6 +179,7 @@
 | [0110-balanced-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -191,6 +192,7 @@
 | [0110-balanced-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0133-clone-graph](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
@@ -205,6 +207,7 @@
 | [0110-balanced-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
@@ -357,6 +360,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -366,6 +370,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0908-middle-of-the-linked-list) |
