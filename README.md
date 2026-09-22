@@ -133,6 +133,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0781-rabbits-in-forest](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0781-rabbits-in-forest) |
 | [1189-maximum-number-of-balloons](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -185,6 +186,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -200,6 +202,7 @@
 | [0547-number-of-provinces](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -213,6 +216,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1008-binary-tree-cameras](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1008-binary-tree-cameras) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
 | ------- |
@@ -314,6 +318,7 @@
 | [0547-number-of-provinces](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/1036-rotting-oranges) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/AnishkaKesaria/Leetcode_Solutions/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Union Find
 |  |
 | ------- |
